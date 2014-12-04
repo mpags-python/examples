@@ -15,4 +15,7 @@ Examples for the MPAGS Python course
 
 * [Reconstructing noisy images](http://nbviewer.ipython.org/github/mpags-python/examples/blob/master/image_processing/reconstructing_noisy_image.ipynb)
 * [Fitting a function to data](http://nbviewer.ipython.org/github/mpags-python/examples/blob/master/fitting/fitting_a_function_to_data.ipynb)
-  
+
+##Session 3
+
+* [Fitting a line with emcee](http://nbviewer.ipython.org/github/mpags-python/examples/blob/master/image_processing/fitting_a_line_with_emcee.ipynb)
