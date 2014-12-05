@@ -18,4 +18,4 @@ Examples for the MPAGS Python course
 
 ##Session 3
 
-* [Fitting a line with emcee](http://nbviewer.ipython.org/github/mpags-python/examples/blob/master/image_processing/fitting_a_line_with_emcee.ipynb)
+* [Fitting a line with emcee](http://nbviewer.ipython.org/github/mpags-python/examples/blob/master/emcee/fitting_a_line_with_emcee.ipynb)
